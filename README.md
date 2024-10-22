@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RicardoLepique
 - 👀 I’m interested in professional internship for data analytics
 - 🌱 I’m currently studying a bachelor's degree Information System 
-- 💞️ I’m looking to collaborate in software developer 
+- 💞️ I’m looking to collaborate as Data Analyst 
 - 📫 How to reach me email:kklepique@gmail.com 
